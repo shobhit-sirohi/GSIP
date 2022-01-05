@@ -10,6 +10,7 @@ module.exports = {
       70: "70%",
       80: "80%",
       90: "90%",
+      110: "110%",
     },
     listStyleType: {
       none: "none",
@@ -19,7 +20,12 @@ module.exports = {
       roman: "upper-roman",
     },
     extend: {
+      spacing: {
+        42: "10.5rem",
+        666: "125rem",
+      },
       screens: {
+        "4xl": "1100px",
         "3xl": "2000px",
       },
       fontFamily: {

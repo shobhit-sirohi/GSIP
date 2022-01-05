@@ -4,11 +4,11 @@ const Hero4 = () => {
   return (
     <div className="">
       <div
-        className=" text-newblue hidden bg-gsl bg-cover  lg:bg-50 bg-right-bottom
+        className=" text-newblue hidden bg-gsl bg-cover  lg:bg-50 pb-20 bg-right-bottom
        space-y-10 bg-newgray 2xl:h-full  lg:flex flex-col  bg-no-repeat px-4 md:px-10 2xl:px-20 
        "
       >
-        <div className="pt-32  ">
+        <div className="pt-16  ">
           <img
             src={gsllogo}
             alt="gsl logo"
@@ -57,7 +57,7 @@ const Hero4 = () => {
             participating in the GSIP program
           </p>
         </div>
-        <div className="bg-gsl bg-cover  h-full bg-no-repeat bg-right "></div>
+        <div className="bg-gsl bg-cover  h-80 bg-no-repeat bg-right "></div>
       </div>
     </div>
   );

@@ -46,7 +46,7 @@ const Hero3 = () => {
             APPLY NOW
           </a>
         </div>
-        <div className="bg-hero3sm bg-cover  h-full bg-no-repeat bg-right "></div>
+        <div className="bg-hero3sm bg-cover h-80 bg-no-repeat bg-right "></div>
       </div>
     </div>
   );

@@ -11,7 +11,7 @@ const HowHelp = () => {
         <br />
         flow-of-work, culture, and your responsibilities.
       </p>
-      <div className="grid lg:grid-cols-3 grid-cols-1 py-10  lg:py-20 space-6 2xl:gap-20 ">
+      <div className="grid lg:grid-cols-3 grid-cols-1 py-10 gap-10  lg:py-20 space-6 2xl:gap-20 ">
         <span className="bg-newblue text-white text-center lg::h-32">
           <p className="text-2xl 2xl:text-3xl py-10">
             Train to develop <br /> entrepreneurial skills

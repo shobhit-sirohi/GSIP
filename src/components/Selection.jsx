@@ -2,12 +2,12 @@ import React from "react";
 
 const Selection = () => {
   return (
-    <div className="h-screen text-newblue ">
+    <div className=" text-newblue ">
       <div
-        className=" text-newblue hidden bg-hero5 bg-cover lg:bg-contain bg-right space-y-6 bg-newgray h-full lg:flex flex-col bg-no-repeat px-4 md:px-10 2xl:px-20
+        className=" text-newblue hidden bg-hero5 bg-cover lg:bg-80 bg-right space-y-6 bg-white py-28  lg:flex flex-col bg-no-repeat px-4 md:px-10 2xl:px-20
        "
       >
-        <h2 className="font-semibold text-5xl lg:text-6xl 2xl:text-6xl pt-4">
+        <h2 className="font-semibold text-5xl lg:text-5xl 2xl:text-6xl pt-4">
           Selection Process
         </h2>
         <span className="text-2xl 2xl:text-3xl 3xl-text-4xl lg:w-1/2 pt-10  font-medium ">

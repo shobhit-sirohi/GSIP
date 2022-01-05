@@ -44,7 +44,7 @@ const Hero2 = () => {
             <p>Program starts: 5th February</p>
           </span>
         </div>
-        <div className="bg-hero2 bg-cover  h-full bg-no-repeat bg-right "></div>
+        <div className="bg-hero2 bg-cover  h-80 bg-no-repeat bg-right "></div>
       </div>
     </div>
   );

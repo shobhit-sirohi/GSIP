@@ -2,7 +2,7 @@ import React from "react";
 
 const HowToApply = () => {
   return (
-    <div className="bg-newgray bg-sittinggirl lg:bg-contain bg-contain bg-no-repeat lg:bg-right bg-right-bottom h-screen md:px-10 2xl:px-20 px-6  ">
+    <div className="bg-newgray lg:bg-sittinggirl lg:bg-contain bg-contain bg-no-repeat lg:bg-right bg-right-bottom py-10  md:px-10 2xl:px-20 px-6  ">
       <h2 className="font-semibold text-3xl  2xl:text-4xl  py-10 text-center  text-newblue">
         How to Apply
       </h2>

@@ -6,7 +6,7 @@ const HomeArea2 = () => {
   return (
     <div className="bg-newgray flex flex-col h-auto text-center px-4 py-10 2xl:pb-20  md:px-10 xl:px-20 text-newblue ">
       <div className="flex justify-center">
-        <h2 className="text-3xl 2xl:text-4xl font-medium lg:w-3/5 py-20 ">
+        <h2 className="text-3xl 2xl:text-4xl font-medium lg:w-3/5 py-6 lg:py-20 ">
           We are hand-picking interns from aross the world
           who are keen on developing an understanding of the
           professional world.

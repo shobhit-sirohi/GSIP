@@ -7,7 +7,7 @@ const Hero1 = () => {
         className=" text-newblue hidden bg-hero1 lg:bg-60  bg-right h-full space-y-10 pb-32 bg-white 2xl:h-full  lg:flex flex-col bg-no-repeat px-4 md:px-10 2xl:px-20 
        "
       >
-        <h2 className="font-semibold lg:text-4xl 2xl:text-5xl 3xl:text-6xl pt-32 2xl:pt-52 ">
+        <h2 className="font-semibold lg:text-3xl 2xl:text-5xl 3xl:text-6xl pt-32 2xl:pt-52 ">
           YOUR STEPPING STONE TO <br />
           BECOME AN EXPERT <br />
           STARTS HERE
@@ -22,7 +22,7 @@ const Hero1 = () => {
 
       <div className="flex flex-col lg:hidden h-full ">
         <div className="flex flex-col  justify-center px-4 py-4 space-y-4 ">
-          <h2 className="font-semibold text-2xl sm:text-5xl md:text-4xl">
+          <h2 className="font-semibold text-2xl sm:text-3xl md:text-4xl ">
             YOUR STEPPING STONE TO <br />
             BECOME AN EXPERT <br />
             STARTS HERE
@@ -34,7 +34,7 @@ const Hero1 = () => {
             APPLY NOW
           </a>
         </div>
-        <div className="bg-hero1 bg-cover  h-full bg-no-repeat bg-right "></div>
+        <div className="bg-hero1 bg-cover h-80 bg-no-repeat bg-right "></div>
       </div>
     </div>
   );
