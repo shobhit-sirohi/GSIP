@@ -2,17 +2,17 @@ import React from "react";
 
 const Price = () => {
   return (
-    <div className="px-4 md:px-10 xl:px-20 bg-dots bg-no-repeat bg-cover pb-40 ">
-      <h2 className="font-semibold flex text-4xl xl:text-5xl 2xl:text-6xl py-10 lg:py-20 text-center justify-center text-newyellow">
+    <div className="px-4 md:px-10 2xl:px-20 bg-dots bg-no-repeat bg-cover pb-32 ">
+      <h2 className="font-semibold flex text-4xl 2xl:text-5xl  py-10 2xl:py-20 text-center justify-center text-newyellow">
         Price
       </h2>
       <div className="bg-newgray p-10 h-1/2">
-        <h2 className=" font-medium text-2xl lg:text-4xl py-6">
+        <h2 className=" font-medium text-2xl 2xl:text-4xl py-6">
           {" "}
           What's included in this price? Everything{" "}
         </h2>
         <div className="p-4 flex flex-col lg:flex-row lg:justify-between items-center ">
-          <ul className="list-square text-xl lg:text-3xl pb-6 lg:pb-0">
+          <ul className="list-square text-xl 2xl:text-3xl pb-6 lg:pb-0">
             <li>Become a part of the Community</li>
             <li>Engage with Harvard tutors</li>
             <li>Get guidance from Industry experts.</li>

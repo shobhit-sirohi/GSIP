@@ -4,13 +4,13 @@ const Hero2 = () => {
   return (
     <div className="h-screen ">
       <div
-        className=" text-newblue hidden bg-hero2 bg-cover lg:bg-contain bg-right space-y-6 bg-white h-full lg:flex flex-col bg-no-repeat px-4 md:px-10 xl:px-20
+        className=" text-newblue hidden bg-hero2 bg-cover lg:bg-contain bg-right space-y-6 bg-white h-full lg:flex flex-col bg-no-repeat px-4 md:px-10 2xl:px-20
        "
       >
-        <h3 className="font-light text-4xl xl:text-5xl 3xl:text-6xl pt-28 xl:pt-40">
+        <h3 className="font-light text-4xl 2xl:text-5xl 3xl:text-6xl pt-28 2xl:pt-40">
           REGISTRATION FOR
         </h3>
-        <h2 className="font-semibold text-6xl xl:text-7xl 3xl:text-8xl pt-4">
+        <h2 className="font-semibold text-6xl 2xl:text-7xl 3xl:text-8xl pt-4">
           COHORT 2 is on
         </h2>
         <span className="text-2xl 2xl:text-3xl 3xl-text-4xl  font-medium space-y-2">

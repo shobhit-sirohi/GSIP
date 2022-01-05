@@ -4,7 +4,7 @@ const Hero4 = () => {
   return (
     <div className="h-screen ">
       <div
-        className=" text-newblue hidden bg-gsl bg-cover lg:bg-contain bg-right h-full space-y-10 bg-newgray xl:h-full  lg:flex flex-col bg-no-repeat px-4 md:px-10 xl:px-20 
+        className=" text-newblue hidden bg-gsl bg-cover lg:bg-contain bg-right h-full space-y-10 bg-newgray 2xl:h-full  lg:flex flex-col bg-no-repeat px-4 md:px-10 2xl:px-20 
        "
       >
         <div className="pt-32 ">
@@ -14,14 +14,14 @@ const Hero4 = () => {
             className="h-28 "
           />
         </div>
-        <h2 className="font-semibold lg:text-5xl xl:text-6xl 3xl:text-7xl  ">
+        <h2 className="font-semibold lg:text-5xl 2xl:text-6xl 3xl:text-7xl  ">
           Get access to world's
           <br />
           largest student community
         </h2>
         <a
           href=""
-          className="bg-newyellow font-semibold flex justify-center text-xl xl:text-2xl hover:text-white py-3 w-40 xl:w-52 2xl:w-52"
+          className="bg-newyellow font-semibold flex justify-center text-xl 2xl:text-2xl hover:text-white py-3 w-40 2xl:w-52 "
         >
           APPLY NOW
         </a>

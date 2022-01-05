@@ -38,7 +38,7 @@ const MentorGrid = () => {
           Meet the Mentors
         </h2>
       </div>
-      <div className="bg-dots grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 bg-contain bg-repeat-y gap-y-10 py-6 px-4 pt-10 lg:pt-20 md:px-10 lxl:px-20">
+      <div className="bg-dots grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 bg-contain bg-repeat-y gap-y-10 py-6 px-4 pt-10 lg:pt-20 md:px-10 2xl:px-20">
         <MentorCard
           name="Daniel P."
           photo={m1}

@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer1 = () => {
   return (
-    <div className=" bg-black bg-earth bg-no-repeat bg-right bg-cover lg:bg-contain flex flex-col lg:flex-row justify-between h-auto px-4 md:px-10 xl:px-20 py-20">
+    <div className=" bg-black bg-earth bg-no-repeat bg-right bg-cover lg:bg-contain flex flex-col lg:flex-row justify-between h-auto px-4 md:px-10 2xl:px-20 py-20">
       <div>
         <h2 className="text-4xl lg:text-5xl tracking-wider font-semibold text-white pb-20 lg:pb-0">
           Expand your mind. <br />
@@ -31,7 +31,7 @@ const Footer1 = () => {
         <div className="py-4">
           <a
             href=""
-            className="bg-newyellow font-semibold flex justify-center text-xl xl:text-2xl hover:text-white py-3 w-40 xl:w-52 2xl:w-52"
+            className="bg-newyellow font-semibold flex justify-center text-xl 2xl:text-2xl hover:text-white py-3 w-40 2xl:w-52 2xl:w-52"
           >
             APPLY NOW
           </a>

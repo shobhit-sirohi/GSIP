@@ -6,7 +6,7 @@ import vector6 from "../images/vector6.svg";
 import vector7 from "../images/vector7.svg";
 const FourCards = () => {
   return (
-    <div className=" md:px-10 xl:px-20 px-4 bg-dotty bg-cover bg-no-repeat text-center  bg-newblue text-white pb-40  ">
+    <div className=" md:px-10 2xl:px-20 px-4 bg-dotty bg-cover bg-no-repeat text-center  bg-newblue text-white pb-40  ">
       <h2 className=" font-semibold text-3xl  xl:text-4xl 2xl:text-5xl py-10 lg:py-20 ">
         The Global Scholar Internship Program
       </h2>

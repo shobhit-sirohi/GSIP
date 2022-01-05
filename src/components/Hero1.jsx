@@ -4,17 +4,17 @@ const Hero1 = () => {
   return (
     <div className="h-screen ">
       <div
-        className=" text-newblue hidden bg-hero1 bg-cover lg:bg-contain bg-right h-full space-y-10 bg-white xl:h-full  lg:flex flex-col bg-no-repeat px-4 md:px-10 xl:px-20 
+        className=" text-newblue hidden bg-hero1 bg-cover lg:bg-contain bg-right h-full space-y-10 bg-white 2xl:h-full  lg:flex flex-col bg-no-repeat px-4 md:px-10 2xl:px-20 
        "
       >
-        <h2 className="font-semibold lg:text-5xl xl:text-6xl 3xl:text-7xl pt-60 ">
+        <h2 className="font-semibold lg:text-5xl 2xl:text-6xl 3xl:text-7xl pt-60 ">
           YOUR STEPPING STONE TO <br />
           BECOME AN EXPERT <br />
           STARTS HERE
         </h2>
         <a
           href=""
-          className="bg-newyellow font-semibold flex justify-center text-xl xl:text-2xl hover:text-white py-3 w-40 xl:w-52 2xl:w-52"
+          className="bg-newyellow font-semibold flex justify-center text-xl 2xl:text-2xl hover:text-white py-3 w-40 2xl:w-52 "
         >
           APPLY NOW
         </a>
