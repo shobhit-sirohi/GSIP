@@ -4,7 +4,7 @@ const MentorCard = ({ name, des, photo, place }) => {
   return (
     <div className="flex flex-col items-center text-newblue text-center">
       <img
-        className="2xl:h-80 2xl:w-80 lg:h-52 lg:w-52 h-32 w-32"
+        className="2xl:h-80 2xl:w-80 lg:h-40 lg:w-40 xl:h-44 xl:w-44 h-32 w-32"
         src={photo}
         alt="mentor image"
       />

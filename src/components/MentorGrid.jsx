@@ -34,7 +34,7 @@ const MentorGrid = () => {
   return (
     <div className="text-newblue">
       <div className="bg-newgray  flex justify-center">
-        <h2 className="font-semibold text-3xl sm:text-4xl xl:text-5xl 2xl:text-6xl py-6 lg:py-10">
+        <h2 className="font-semibold text-3xl  2xl:text-5xl 3xl:text-6xl py-6 lg:py-10">
           Meet the Mentors
         </h2>
       </div>
@@ -199,7 +199,8 @@ const MentorGrid = () => {
           des="Managing Director"
           place="LegalAI"
         />
-
+      </div>
+      <div className="bg-dots">
         <MentorCard
           name="Talwinder S."
           photo={m29}

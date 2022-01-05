@@ -7,10 +7,12 @@ import {
   Route,
   Routes,
 } from "react-router-dom";
+import ScrollToTop from "./components/ScrollToTop";
 
 const App = () => {
   return (
     <BrowserRouter>
+      <ScrollToTop />
       <Routes>
         <Route path="/" exact element={<Home />} />
         <Route
