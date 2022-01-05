@@ -1,6 +1,16 @@
 module.exports = {
   content: ["./src/**/*.{html,js,jsx}"],
   theme: {
+    backgroundSize: {
+      auto: "auto",
+      cover: "cover",
+      contain: "contain",
+      50: "50%",
+      60: "60%",
+      70: "70%",
+      80: "80%",
+      90: "90%",
+    },
     listStyleType: {
       none: "none",
       disc: "disc",
