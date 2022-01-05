@@ -10,7 +10,7 @@ const Perks = () => {
       <h2 className="font-semibold text-3xl flex 2xl:text-4xl  py-20 text-center justify-center text-newblue">
         Perks and beneits
       </h2>
-      <div className="bg-line bg-no-repeat">
+      <div className=" bg-no-repeat">
         <div className="grid lg:grid-cols-5 grid-cols-1 bg-no-repeat bg-center text-center justify-center items-start gap-y-10 gap-12 pb-20">
           <span className="flex flex-col items-center justify-center">
             <img

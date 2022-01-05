@@ -7,7 +7,7 @@ const Hero1 = () => {
         className=" text-newblue hidden bg-hero1 bg-cover lg:bg-contain bg-right h-full space-y-10 bg-white 2xl:h-full  lg:flex flex-col bg-no-repeat px-4 md:px-10 2xl:px-20 
        "
       >
-        <h2 className="font-semibold lg:text-5xl 2xl:text-6xl 3xl:text-7xl pt-60 ">
+        <h2 className="font-semibold lg:text-4xl 2xl:text-5xl 3xl:text-6xl pt-40 2xl:pt-52 ">
           YOUR STEPPING STONE TO <br />
           BECOME AN EXPERT <br />
           STARTS HERE

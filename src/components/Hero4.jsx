@@ -2,19 +2,20 @@ import React from "react";
 import gsllogo from "../images/gsl.svg";
 const Hero4 = () => {
   return (
-    <div className="h-screen ">
+    <div className="">
       <div
-        className=" text-newblue hidden bg-gsl bg-cover lg:bg-contain bg-right h-full space-y-10 bg-newgray 2xl:h-full  lg:flex flex-col bg-no-repeat px-4 md:px-10 2xl:px-20 
+        className=" text-newblue hidden bg-gsl bg-cover  lg:bg-40 bg-right-bottom
+       h-full space-y-10 bg-newgray 2xl:h-full  lg:flex flex-col  bg-no-repeat px-4 md:px-10 2xl:px-20 
        "
       >
-        <div className="pt-32 ">
+        <div className="pt-32  ">
           <img
             src={gsllogo}
             alt="gsl logo"
-            className="h-28 "
+            className="h-20 "
           />
         </div>
-        <h2 className="font-semibold lg:text-5xl 2xl:text-6xl 3xl:text-7xl  ">
+        <h2 className="font-semibold lg:text-4xl 2xl:text-6xl 3xl:text-7xl  ">
           Get access to world's
           <br />
           largest student community
@@ -25,7 +26,7 @@ const Hero4 = () => {
         >
           APPLY NOW
         </a>
-        <p className="text-2xl">
+        <p className="text-2xl pb-10">
           Free membership for students for students <br />
           participating in the GSIP program
         </p>

@@ -6,13 +6,13 @@ const HowHelp = () => {
       <h2 className=" font-semibold text-3xl  2xl:text-4xl  py-10 ">
         How Does GSIP Help You?
       </h2>
-      <p className="text-2xl lg:text-3xl 2xl:text-4xl ">
+      <p className="text-2xl 2xl:text-3xl 3xl:text-4xl ">
         Collaborate with intern partners to understand{" "}
         <br />
         flow-of-work, culture, and your responsibilities.
       </p>
-      <div className="grid lg:grid-cols-3 grid-cols-1 py-10  lg:py-20 gap-12 lg:gap-20 ">
-        <span className="bg-newblue text-white text-center">
+      <div className="grid lg:grid-cols-3 grid-cols-1 py-10  lg:py-20 space-6 2xl:gap-20 ">
+        <span className="bg-newblue text-white text-center lg::h-32">
           <p className="text-2xl 2xl:text-3xl py-10">
             Train to develop <br /> entrepreneurial skills
           </p>
