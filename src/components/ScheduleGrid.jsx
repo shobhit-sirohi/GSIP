@@ -22,24 +22,24 @@ const ScheduleGrid = () => {
             <ul className="list-disc text-newblue font-medium text-xl  space-y-4 pl-4">
               <li className="">
                 {" "}
-                5th February 2022 08:00 AM - 09:00 AM EDT
-                Orientation
+                19th February 2022&nbsp;&nbsp;08:00 AM -
+                09:00 AM EDT Orientation
               </li>
               <li>
                 {" "}
-                6th February 2022 08:00 AM - 09:30 AM EDT
-                Workshop on Business and Idea Generation
-                from HSA
+                20th February 2022&nbsp;&nbsp;08:00 AM -
+                09:30 AM EDT Workshop on Business and Idea
+                Generation from HSA
               </li>
               <li>
                 {" "}
-                7th - 11th February 2022 Internship Task 1
+                21th-25th February 2022 Internship Task 1
                 (5-7 hours for the whole week)
               </li>
               <li>
                 {" "}
-                12th February 2022 08:00 AM - 09:00 AM EDT
-                Networking Session
+                26th February 2022&nbsp;&nbsp;08:00 AM -
+                09:00 AM EDT Networking Session
               </li>
             </ul>
           </div>
@@ -54,18 +54,19 @@ const ScheduleGrid = () => {
             <ul className="list-disc pl-4 text-newblue font-medium text-xl  space-y-4 ">
               <li className="">
                 {" "}
-                13th February 2022 08:00 AM - 09:30 AM EDT
-                Workshop on Business Plan Writing from HSA
+                27th February 2022&nbsp;&nbsp;08:00 AM -
+                09:30 AM EDT Workshop on Business Plan
+                Writing from HSA
               </li>
               <li>
                 {" "}
-                14th - 18th February 2022 Internship Task 2
-                (5-7 hours for the whole week)
+                28th February - 4th March 2022 Internship
+                Task 2 (5-7 hours for the whole week)
               </li>
               <li>
                 {" "}
-                19th February 2022 08:00 AM - 09:00 AM EDT
-                Mentorship Day
+                5th March 2022&nbsp;&nbsp;08:00 AM - 09:00
+                AM EDT Mentorship Day
               </li>
             </ul>
           </div>
@@ -80,19 +81,20 @@ const ScheduleGrid = () => {
             <ul className="list-disc pl-4 text-newblue font-medium text-xl space-y-4 ">
               <li className="">
                 {" "}
-                20th February 2022 08:00 AM - 09:30 AM EDT
-                Workshop on Public Speaking and Presentation
-                Skills from HSA
+                6th March 2022&nbsp;&nbsp;08:00 AM - 09:30
+                AM EDT Workshop on Public Speaking and
+                Presentation Skills from HSA
               </li>
               <li>
                 {" "}
-                21st - 25th February 2022 Internship Task 3
-                (5-7 hours for the whole week)
+                7th - 11th March 2022 Internship Task 3 (5-7
+                hours for the whole week)
               </li>
               <li>
                 {" "}
-                26thth February 2022 08:00 AM - 10:00 AM EDT
-                Final Presentations and Conclusion Day
+                12th March 2022&nbsp;&nbsp;08:00 AM - 10:00
+                AM EDT Final Presentations and Conclusion
+                Day
               </li>
             </ul>
           </div>

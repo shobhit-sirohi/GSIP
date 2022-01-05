@@ -2,12 +2,12 @@ import React from "react";
 
 const Hero3 = () => {
   return (
-    <div className="h-screen ">
+    <div className=" ">
       <div
-        className=" text-newblue hidden bg-hero3 bg-cover lg:bg-contain bg-left space-y-10 bg-white h-full  lg:flex flex-col bg-no-repeat px-4 md:px-10 2xl:px-20 items-end 
+        className=" text-newblue hidden bg-hero3 bg-cover lg:bg-80 bg-left space-y-10 bg-white h-full pb-32 lg:flex flex-col bg-no-repeat px-4 md:px-10 2xl:px-20 items-end 
        "
       >
-        <h2 className="font-medium lg:text-5xl 2xl:text-6xl 3xl:text-7xl lg:pt-40 2xl:pt-60 w-1/2 ">
+        <h2 className="ffont-semibold lg:text-4xl 2xl:text-5xl 3xl:text-6xl lg:pt-40 2xl:pt-60 w-1/2 ">
           Master the Framework Of
           <br />
           Entrepreneurship
