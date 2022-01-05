@@ -15,9 +15,9 @@ const Deadline = () => {
       </p>
       <a
         href=""
-        className="bg-newyellow font-semibold flex justify-center text-2xl 2xl:text-3xl hover:text-white py-1 2xl:py-4 px-4 lg:w-4/5 "
+        className="bg-newyellow font-semibold flex justify-center text-2xl 2xl:text-3xl hover:text-white py-1 2xl:py-4 px-4  "
       >
-        Early Application Deadline (Cohort 2): 10th January
+        Early Application Deadline (Cohort 2): 10th February
         2022
       </a>
     </div>

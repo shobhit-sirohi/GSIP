@@ -12,6 +12,15 @@ const Hero1 = () => {
           BECOME AN EXPERT <br />
           STARTS HERE
         </h2>
+        <span className="text-sm  sm:text-xl 2xl-text-2xl  3xl:text-3xl font-medium pt-2 ">
+          <p>
+            Early application deadline: 30th December 2021
+          </p>
+          <p>
+            Regular application deadline: 15th January 2022
+          </p>
+          <p>Program starts: 5th February</p>
+        </span>
         <a
           href=""
           className="bg-newyellow font-semibold flex justify-center text-xl 2xl:text-2xl hover:text-white py-3 w-40 2xl:w-52 "
@@ -27,6 +36,16 @@ const Hero1 = () => {
             BECOME AN EXPERT <br />
             STARTS HERE
           </h2>
+          <span className="text-sm  sm:text-xl 2xl-text-2xl  3xl:text-3xl font-medium pt-2 ">
+            <p>
+              Early application deadline: 30th December 2021
+            </p>
+            <p>
+              Regular application deadline: 15th January
+              2022
+            </p>
+            <p>Program starts: 5th February</p>
+          </span>
           <a
             href=""
             className="bg-newyellow font-semibold flex justify-center text-base sm:text-2xl hover:text-white py-1 md:py-3 sm:py-2 w-32  sm:w-40  "

@@ -24,21 +24,25 @@ const Price = () => {
               <h2 className=" text-2xl p-6 text-newyellow font-semibold">
                 $249
               </h2>
-              <h2 className="text-white text-2xl p-10">
+              <h2 className="text-white text-2xl p-4 2xl:p-6">
                 Regular <br /> Application
+                <br /> <br /> 17th February 2022
               </h2>
             </div>
             <div className="bg-newblue border-2 border-newyellow divide-y-2 divide-newyellow">
               <h2 className="text-newyellow font-semibold  text-2xl p-6">
                 $199
               </h2>
-              <h2 className="text-white  text-2xl p-10">
+              <h2 className="text-white  text-2xl p-4">
                 Early <br /> Application
+                <br />
+                <br />
+                10th February 2022
               </h2>
             </div>
           </div>
         </div>
-        <div className="flex items-center justify-center pt-6">
+        <div className="flex items-center justify-center pt-6 2xl:p-6">
           <a
             href=""
             className="bg-newyellow font-semibold flex justify-center text-xl xl:text-2xl hover:text-white py-3 w-40 xl:w-52 2xl:w-52"

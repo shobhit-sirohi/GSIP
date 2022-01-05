@@ -31,7 +31,7 @@ const Footer1 = () => {
         <div className="py-4">
           <a
             href=""
-            className="bg-newyellow font-semibold flex justify-center text-xl 2xl:text-2xl hover:text-white py-3 w-40 2xl:w-52 2xl:w-52"
+            className="bg-newyellow font-semibold flex justify-center text-xl 2xl:text-2xl hover:text-white py-3 w-40 2xl:w-52 "
           >
             APPLY NOW
           </a>
