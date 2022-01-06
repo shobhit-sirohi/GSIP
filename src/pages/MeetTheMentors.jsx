@@ -5,7 +5,7 @@ import MentorGrid from "../components/MentorGrid";
 
 const MeetTheMentors = () => {
   return (
-    <div>
+    <div className="mx-auto  2xl:max-w-3000">
       <Navigation />
       <Hero2 />
       <MentorGrid />

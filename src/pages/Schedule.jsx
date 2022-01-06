@@ -9,7 +9,7 @@ import Selection from "../components/Selection";
 
 const Schedule = () => {
   return (
-    <div>
+    <div className="mx-auto 2xl:max-w-3000">
       <Navigation />
       <Hero2 />
       <ScheduleArea2 />

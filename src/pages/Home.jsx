@@ -14,7 +14,7 @@ import Price from "../components/Price";
 
 const Home = () => {
   return (
-    <div>
+    <div className="mx-auto 5xl:max-w-3000">
       <Navigation />
       <Hero1 />
       <HomeArea2 />

@@ -33,12 +33,12 @@ import m29 from "../images/m29.png";
 const MentorGrid = () => {
   return (
     <div className="text-newblue">
-      <div className="bg-newgray  flex justify-center">
-        <h2 className="font-semibold text-3xl  2xl:text-5xl 3xl:text-6xl py-6 lg:py-10">
+      <div className="flex justify-center bg-newgray">
+        <h2 className="py-6 text-3xl font-semibold 2xl:text-5xl 3xl:text-6xl lg:py-10">
           Meet the Mentors
         </h2>
       </div>
-      <div className="bg-dots grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 bg-contain bg-repeat-y gap-y-10 py-6 px-4 pt-10 lg:pt-20 md:px-10 2xl:px-20">
+      <div className="grid grid-cols-2 px-4 py-6 pt-10 bg-repeat-y bg-cover bg-dots md:grid-cols-4 lg:grid-cols-4 gap-y-10 lg:pt-20 md:px-10 2xl:px-20">
         <MentorCard
           name="Daniel P."
           photo={m1}
@@ -200,7 +200,7 @@ const MentorGrid = () => {
           place="LegalAI"
         />
       </div>
-      <div className="bg-dots">
+      <div className="bg-repeat-y bg-cover bg-dots">
         <MentorCard
           name="Talwinder S."
           photo={m29}

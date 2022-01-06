@@ -20,6 +20,9 @@ module.exports = {
       roman: "upper-roman",
     },
     extend: {
+      maxWidth: {
+        5000: "3850px",
+      },
       spacing: {
         42: "10.5rem",
         666: "125rem",
@@ -27,6 +30,7 @@ module.exports = {
       screens: {
         "4xl": "1100px",
         "3xl": "2000px",
+        "5xl": "3850px",
       },
       fontFamily: {
         Poppins: ["Poppins", "sans-serif"],
